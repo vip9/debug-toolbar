@@ -25,6 +25,7 @@ div#kohana-debug-toolbar th {
 	line-height: 1;
 	text-transform: none;
 	font-size:100%;
+	float: left;
 }
 div#kohana-debug-toolbar table {
 	border-collapse: collapse;
